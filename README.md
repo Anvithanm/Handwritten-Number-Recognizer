@@ -93,16 +93,7 @@ If you wish to train the TensorFlow model with different data:
 - Description: Drawing numbers using a touch screen(laptop)/Mouse.
 - Steps: Run the application, draw numbers using touch screens, click "PREDICT"
 - Expected Result: The drawn number is correctly recognized, predicted and displayed.
-![number1](img0.png)
-![number1](img1.png)
-![number1](img2.png)
-![number1](img3.png)
-![number1](img4.png)
-![number1](img5.png)
-![number1](img6.png)
-![number1](img7.png)
-![number1](img8.png)
-![number1](img9.png)
+app_result.jpg
 
 ## Citation
 
