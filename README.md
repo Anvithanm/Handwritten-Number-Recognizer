@@ -93,7 +93,7 @@ If you wish to train the TensorFlow model with different data:
 - Description: Drawing numbers using a touch screen(laptop)/Mouse.
 - Steps: Run the application, draw numbers using touch screens, click "PREDICT"
 - Expected Result: The drawn number is correctly recognized, predicted and displayed.
-app_result.jpg
+![JavaFx application](app_result.jpg)
 
 ## Citation
 
