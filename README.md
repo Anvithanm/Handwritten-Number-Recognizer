@@ -47,7 +47,7 @@ However, in some cases, such as the digits 5 and 8, if they are not recognized i
 - handwritten_digit_model2.h5 : this is the trained model, which is loaded to predict new number images.
 
 ### Class Diagram (UML Diagram)
-![Class Diagram](Class_Diagram.png)
+![Class Diagram](src/main/java/com/Class_Diagram.png)
 ### Usage
 - Launch the application by navigating to this path /FinalProject/src/main/java/com/example/finalproject/GUI_Number_Recognizer.java
 - Run the GUI_Number_Recognizer.java JavaFX script to launch the application
